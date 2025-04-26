@@ -1,5 +1,13 @@
 ## Hi there 👋
+I am a phd in Physics.
 
+I'm a beginner at data science.
+
+I am expert in semiconductor physics and semiconductor device fabrication.
+
+How to reach me: zhang.10490@osu.edu
+
+Fun fact: I am unstoppable in HOK.
 <!--
 **ZhenengZ/ZhenengZ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
